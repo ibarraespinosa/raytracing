@@ -5,7 +5,8 @@ raytracing
 Status](https://img.shields.io/travis/com/salvatirehbein/raytracing?style=for-the-badge)](https://travis-ci.com/github/salvatirehbein/raytracing)
 [![Codecov test
 coverage](https://codecov.io/gh/salvatirehbein/raytracing/branch/master/graph/badge.svg)](https://codecov.io/gh/salvatirehbein/raytracing?branch=master)
-
+   [![R build
+    status](https://github.com/salvatirehbein/raytracing/workflows/R-CMD-check/badge.svg)](https://github.com/salvatirehbein/raytracing/actions)
 ## Raytracing Documentation
 
 The identification of the atmospheric Rossby wave ray paths is of
